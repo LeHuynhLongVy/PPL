@@ -1,0 +1,6 @@
+
+                class mutablefloatatt {
+                    static float numOfclass = 1.0;
+                    float numOfclass2 = 1.0e-12;
+                }
+                

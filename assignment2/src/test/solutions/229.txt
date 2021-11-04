@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(staticmethodhasmanyparameter),[MethodDecl(Id(para),Static,[param(Id(parameter),IntType),param(Id(parameter2),IntType)],IntType,Block([VarDecl(Id(result),IntType,BinaryOp(-,Id(parameter),Id(parameter2)))],[Return(Id(result))]))])])

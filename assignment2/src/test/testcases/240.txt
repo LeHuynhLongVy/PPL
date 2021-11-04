@@ -1,0 +1,10 @@
+
+                class square {
+                    square (float radius) {
+                        this.radius := radius;
+                    }
+                    float area(float radius) {
+                        return radius*3.14*radius;
+                    }
+                }
+                

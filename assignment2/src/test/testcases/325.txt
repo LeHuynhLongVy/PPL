@@ -1,0 +1,8 @@
+
+                class emptymethod1 {
+                    static float empty2(){
+                        float b;
+                        return b;
+                    }
+                }
+                

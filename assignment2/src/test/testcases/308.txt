@@ -1,0 +1,11 @@
+class Shape {
+        float area;
+        final static string name = "hinh";
+        Shape(float a, b) {
+            this.a := a;
+            this.b := b;
+        }
+        float getArea(){
+            return a*b;
+        }
+        }

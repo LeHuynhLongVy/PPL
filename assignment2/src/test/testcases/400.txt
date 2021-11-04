@@ -1,0 +1,7 @@
+class random {
+            int main() {
+                for i := 5 downto 2 do 
+                    for j :=5 downto 2 do io.writeIntLn(x);
+                }
+        }
+                

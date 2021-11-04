@@ -1,0 +1,11 @@
+
+                class Example2 {
+                    void main(){
+                        r:=2.0;
+                        s:=r*r*this.myPI;
+                        a[0]:= s;
+                        float r,s;
+                        int[5] a,b;
+                    }
+                }
+                

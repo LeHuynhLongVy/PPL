@@ -1,0 +1,10 @@
+
+                class Example2 {
+                    void ifelsestmt(){
+                        if flag then
+                            io.writeStrLn("Expression is true");
+                        else
+                            io.writeStrLn ("Expression is false");
+                    }
+                }
+                

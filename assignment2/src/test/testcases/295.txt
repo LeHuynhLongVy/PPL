@@ -1,0 +1,9 @@
+
+                class Example2 {
+                    void assignmentSTMT(){
+                        value := x.foo(5);
+                        l[3] := value * 2;
+                        this.aPI = 3.14;
+                    }
+                }
+                

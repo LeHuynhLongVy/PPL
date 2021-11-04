@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(main),[MethodDecl(Id(total),Instance,[param(Id(a),IntType),param(Id(b),IntType)],IntType,Block([VarDecl(Id(a),ClassType(Id(main)))],[Call(Id(a),Id(total),[IntLit(4),IntLit(5)])]))])])

@@ -1,0 +1,10 @@
+
+                class Example2 {
+                    void fordownto(){
+                        for x := 5 downto 2 do {
+                            io.writeIntLn(x);
+                            return x;
+                        }
+                    }
+                }
+                

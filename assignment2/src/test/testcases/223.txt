@@ -1,0 +1,7 @@
+
+                class immutableintatt {
+                    final static int numOfclass = 1;
+                    int numOfclass2 = 2;
+                    final int numOfclass3 = 3;
+                }
+                

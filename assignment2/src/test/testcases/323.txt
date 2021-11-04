@@ -1,0 +1,9 @@
+
+                class staticmethodhasmanyparameter_differenttype {
+                    static int para(int parameter, parameter2; float para3,para4){}
+                    static float para1(float parameter, parameter2; string para5,para6){}
+                    static boolean para2(string parameter, parameter2; int a,b,c){}
+                    static string para3(boolean parameter, parameter2; int[2] arrays){}
+                    static void para4(int[5] parameter, parameter2;int a,b;float c,d){}
+                }
+                

@@ -1,0 +1,9 @@
+
+                class staticmethodhasmanyparameter {
+                    static int para(int parameter, parameter2){}
+                    static float para1(float parameter, parameter2){}
+                    static boolean para2(string parameter, parameter2){}
+                    static string para3(boolean parameter, parameter2){}
+                    static void para4(int[5] parameter, parameter2){}
+                }
+                

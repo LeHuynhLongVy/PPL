@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(mutablefloatatt),[AttributeDecl(Static,VarDecl(Id(numOfclass),FloatType,FloatLit(1.0))),AttributeDecl(Instance,VarDecl(Id(numOfclass2),FloatType,FloatLit(1e-12)))])])

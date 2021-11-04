@@ -1,0 +1,7 @@
+
+                class immutableboolatt {
+                    static boolean a = true;
+                    boolean b = false;
+                    final boolean numOfclass3 = true;
+                }
+                

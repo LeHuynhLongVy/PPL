@@ -1,0 +1,5 @@
+
+                class methoddecl {
+                    static int method1(){}
+                }
+                

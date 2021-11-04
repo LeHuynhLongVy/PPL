@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Example2),[MethodDecl(Id(fordownto),Instance,[],VoidType,Block([],[For(Id(x),IntLit(5),IntLit(2),False,Block([],[Call(Id(io),Id(writeIntLn),[Id(x)]),Return(Id(x))])])]))])])

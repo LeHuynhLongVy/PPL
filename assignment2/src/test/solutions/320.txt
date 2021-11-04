@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(emptymethod1),[MethodDecl(Id(empty1),Static,[],IntType,Block([],[])),MethodDecl(Id(empty2),Static,[],FloatType,Block([],[])),MethodDecl(Id(empty3),Static,[],BoolType,Block([],[])),MethodDecl(Id(empty4),Static,[],StringType,Block([],[])),MethodDecl(Id(empty5),Static,[],VoidType,Block([],[]))])])

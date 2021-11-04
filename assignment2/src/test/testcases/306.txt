@@ -1,0 +1,7 @@
+class Shape {
+        Shape(){}
+        Shape(float a, b) {
+            this.a := a;
+            this.b := b;
+        }
+        }

@@ -1,0 +1,10 @@
+
+                class example{
+                void main(){
+                    boolean x = true,y = false;
+                    string result;
+                    result := !y;
+                    return result;                    
+                }
+                }
+                

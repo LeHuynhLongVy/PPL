@@ -1,0 +1,9 @@
+
+                class Example2 {
+                    void main(){
+                        r:=2.0;
+                        continue;
+                        return none;
+                    }
+                }
+                

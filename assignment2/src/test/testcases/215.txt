@@ -1,0 +1,10 @@
+
+                class methodattriconstruc {
+                    static int method1(){}
+                    final static int My1stCons = 1 + 5,My2ndCons = 2;
+                    static final int My3rdCons = 2, My4thCons= 1;
+                    int x,y = 0;
+                    float a,b,c;
+                    methodattriconstruc(){}
+                }
+                

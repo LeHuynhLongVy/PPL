@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(immutablestringatt),[AttributeDecl(Static,VarDecl(Id(text),StringType,StringLit(abc))),AttributeDecl(Instance,VarDecl(Id(text2),StringType,StringLit(cde asd))),AttributeDecl(Instance,ConstDecl(Id(text3),StringType,StringLit(immutable attribute)))])])

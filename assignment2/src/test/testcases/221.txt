@@ -1,0 +1,6 @@
+
+                class mutableboolatt {
+                    static boolean a = true;
+                    boolean b = false;
+                }
+                

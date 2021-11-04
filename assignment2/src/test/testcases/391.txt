@@ -1,0 +1,9 @@
+
+                class Example2 {
+                    void continuestmt(){
+                        for x := 5 downto 2 do {
+                            if x == 3 then continue;
+                        }
+                    }
+                }
+                

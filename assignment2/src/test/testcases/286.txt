@@ -1,0 +1,10 @@
+
+                class Example2 {
+                    void forto(){
+                        for i := 1 to 100 do {
+                            io.writeIntLn(i);
+                            Intarray[i] := i + 1;
+                        }
+                    }
+                }
+                

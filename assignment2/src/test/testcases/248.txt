@@ -1,0 +1,6 @@
+
+                class example {
+                    float methoda(float a,b; int c) {
+                        return a;
+                }
+                

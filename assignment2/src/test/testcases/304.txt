@@ -1,0 +1,5 @@
+class a {
+        final int a = 2;
+        static float b = 3.0;
+        static final float pi = 3.14;
+        }

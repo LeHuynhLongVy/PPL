@@ -1,0 +1,6 @@
+class a {
+        int a = 2,b = 3;
+        int total(int a, b) {
+            return a + b;
+        }
+        }

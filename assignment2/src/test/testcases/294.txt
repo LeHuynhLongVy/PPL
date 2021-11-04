@@ -1,0 +1,13 @@
+
+                class Shape {
+                    static int getNumOfShape(){}
+                }
+                class Bob {
+                }
+                class Example2 {
+                    void getSum(){
+                        Shape s;
+                        Bob a;
+                    }
+                }
+                

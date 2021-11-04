@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(square),[MethodDecl(Id(<init>),Instance,[param(Id(radius),FloatType)],Block([],[AssignStmt(FieldAccess(Self(),Id(radius)),Id(radius))])),MethodDecl(Id(area),Instance,[param(Id(radius),FloatType)],FloatType,Block([],[Return(BinaryOp(*,BinaryOp(*,Id(radius),FloatLit(3.14)),Id(radius)))]))])])

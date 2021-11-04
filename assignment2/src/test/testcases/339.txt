@@ -1,0 +1,5 @@
+
+                class example {
+                    string[2] array_type_attribute = {"string 1", "string 2"};
+                }
+                

@@ -1,0 +1,19 @@
+
+                class emptymethod1 {
+                    static int empty1(){
+                        int a;
+                        return a;
+                    }
+                    static float empty2(){
+                        float b;
+                        return b;
+                    }
+                    static boolean empty3(){
+                        boolean abc = true;
+                        return abc;
+                    }
+                    static string empty4(){
+                        return "yes";
+                    }
+                }
+                

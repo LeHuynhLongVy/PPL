@@ -1,0 +1,5 @@
+
+                class example {
+                    float[2] array_type_attribute = {1.0,2.0};
+                }
+                

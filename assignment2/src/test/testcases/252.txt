@@ -1,0 +1,12 @@
+
+                class example{
+                void main(){
+                    if x < y then continue;
+                    if x <= y then continue;
+                    if x > y then continue;
+                    if x >= y then continue;
+                    if x == y then continue;
+                    if x != y then return 0;
+                }
+                }
+                

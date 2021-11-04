@@ -1,0 +1,8 @@
+
+                class emptymethod1 {
+                    static string empty4(){
+                        string abc = "string lit";
+                        return abc;
+                    }
+                }
+                

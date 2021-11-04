@@ -1,0 +1,9 @@
+
+                class example{
+                void main(){
+                    boolean x,y;
+                    if x || y then continue;
+                    if x && y then continue;
+                }
+                }
+                

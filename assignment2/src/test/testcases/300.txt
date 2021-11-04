@@ -1,0 +1,1 @@
+sym a, ...b @ float; sym ...c, d @ int;

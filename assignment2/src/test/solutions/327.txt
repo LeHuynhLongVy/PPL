@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(emptymethod1),[MethodDecl(Id(empty4),Static,[],StringType,Block([VarDecl(Id(abc),StringType,StringLit(string lit))],[Return(Id(abc))]))])])

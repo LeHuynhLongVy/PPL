@@ -1,0 +1,6 @@
+
+                class mutablestringatt {
+                    static string text = "abc";
+                    string text2 = "cde asd";
+                }
+                
