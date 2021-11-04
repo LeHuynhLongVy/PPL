@@ -1,0 +1,8 @@
+
+                class Example2 {
+                    void ifstmt(){
+                        if flag then
+                            io.writeStrLn("Expression is true");
+                    }
+                }
+                

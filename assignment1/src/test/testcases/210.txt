@@ -1,0 +1,13 @@
+
+                class foo {
+                    final static int foo1;
+                    static final float foo2;
+                    string foo3;
+                    string printToscreen(){
+                        io.writeStr(foo3);
+                    }
+                    void main(){
+                        return 0;
+                    }
+                }
+                

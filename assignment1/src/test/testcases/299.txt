@@ -1,0 +1,10 @@
+
+                class Example2 {
+                    void breakstmt(){
+                        for x := 5 downto 2 do {
+                            io.writeIntLn(x);
+                            if x == 3 then continue
+                        }
+                    }
+                }
+                

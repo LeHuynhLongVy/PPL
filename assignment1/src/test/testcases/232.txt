@@ -1,0 +1,9 @@
+
+                class emptymethod1 {
+                    int empty1(){}
+                    float empty2(){}
+                    boolean empty3(){}
+                    string empty4(){}
+                    void empty5(){}
+                }
+                

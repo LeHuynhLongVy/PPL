@@ -1,0 +1,8 @@
+
+                class Example2 {
+                    void main(){
+                        float r,s;
+                        int[5] a,b;
+                    }
+                }
+                    

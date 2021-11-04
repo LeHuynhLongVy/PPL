@@ -1,0 +1,24 @@
+
+                class validmethoddecl {
+                    static int a() {}
+                    static float b(float b) {}
+                    static boolean c(boolean e,f) {}
+                    static string d(string g,h;int i,j) {}
+                    static void main() {return 0;}
+                    int a1() {}
+                    float b1(float b) {}
+                    boolean c1(boolean e,f) {}
+                    string d1(string g,h;int i,j) {}
+                    void main1() {a := b; return 0;}
+                    static int a2() {}
+                    static float b2() {}
+                    static boolean c2() {}
+                    static string d2() {}
+                    static void main2() {}
+                    int a3() {}
+                    float b3() {}
+                    boolean c3() {}
+                    string d3() {}
+                    void main3() {}
+                }
+                

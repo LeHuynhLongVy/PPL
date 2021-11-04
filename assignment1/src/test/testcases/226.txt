@@ -1,0 +1,7 @@
+
+                class immutablestringatt {
+                    static string text = "abc";
+                    string text2 = "cde asd";
+                    final string text3 = "immutable attribute";
+                }
+                

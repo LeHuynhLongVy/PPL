@@ -1,0 +1,10 @@
+
+                class example{
+                void main(){
+                    int x = -3,y = +5;
+                    string result;
+                    result := x - y;
+                    return result;                    
+                }
+                }
+                

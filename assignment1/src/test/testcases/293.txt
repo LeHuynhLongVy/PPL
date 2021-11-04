@@ -1,0 +1,11 @@
+
+                class Shape {
+                    static int getNumOfShape(){}
+                }
+                class Example2 {
+                    void getSum(){
+                        Shape s;
+                        s.getNumOfShape();
+                    }
+                }
+                

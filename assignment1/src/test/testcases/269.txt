@@ -1,0 +1,8 @@
+
+                class example{
+                void main(){
+                    a[3+x.foo(2)] := a[b[c[2]]] + 3;
+                    a[b[c[3]]] := 3 + 1;              
+                }
+                }
+                

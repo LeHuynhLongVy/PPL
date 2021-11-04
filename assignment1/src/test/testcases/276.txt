@@ -1,0 +1,8 @@
+
+                class Rectangle{}
+                class Example2 {
+                    void main(){
+                        s:= new ()
+                    }
+                }
+                

@@ -1,0 +1,46 @@
+
+                #this is class example 1
+                class Example1 {
+                    int factorial(int n){
+                        if n == 0 then return 1; else return n * this.factorial(n - 1);
+                    }
+                    void main(){
+                        int x;
+                        x := io.readInt();
+                        io.writeIntLn(this.factorial(x));
+                        }
+                }
+                /* this is
+                class shape
+                which is quite
+                interesting!!! */
+                class Shape {
+                    float length,width;
+                    float getArea() {}
+                    Shape(float length,width){
+                        this.length := length;
+                        this.width := width;
+                    }
+                }
+                # Here u have inheritance which is a characteristic of OOP
+                class Rectangle extends Shape {
+                    float getArea(){
+                        return this.length*this.width;
+                    }
+                }
+                class Triangle extends Shape {
+                    float getArea(){
+                        return this.length*this.width / 2;
+                    }
+                }
+                # And all of the comment are skipped. /*This block comment don't have meaning in the line comment*/
+                class Example2 {
+                    void main(){
+                        Shape s;
+                        s := new Rectangle(3,4);
+                        io.writeFloatLn(s.getArea());
+                        s := new Triangle(3,4);
+                        io.writeFloatLn(s.getArea());
+                    }
+                }
+                
