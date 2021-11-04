@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(example),[MethodDecl(Id(main),Instance,[],VoidType,Block([],[AssignStmt(CallExpr(Id(x),Id(foo),[]),CallExpr(Id(a),Id(b),[]))]))])])

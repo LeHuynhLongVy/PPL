@@ -1,0 +1,9 @@
+
+                class staticmethodhas1parameter {
+                    static int para(int parameter){}
+                    static float para1(float parameter){}
+                    static boolean para2(string parameter){}
+                    static string para3(boolean parameter){}
+                    static void para4(int[5] parameter){}
+                }
+                

@@ -1,0 +1,18 @@
+
+        class a{
+            int foo(){
+                return 0;
+            }
+        }
+        class b{
+            boolean foo(){
+                return 0;
+            }
+            int foo1(){
+                return 0;
+            }
+            float foo1(){
+                return 0;
+            }
+        }
+        

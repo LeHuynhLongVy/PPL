@@ -1,0 +1,12 @@
+
+        class a{
+        int foo(){
+            if true then
+            {
+                int b;
+                float b;
+            }
+            else return 0;
+        }
+        }
+        

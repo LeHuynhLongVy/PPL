@@ -1,0 +1,9 @@
+
+                class example{
+                void main(){
+                    int[2] a;
+                    a[0] := 1;
+                    a[1] := 2;
+                }
+                }
+                

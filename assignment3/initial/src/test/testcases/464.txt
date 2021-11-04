@@ -1,0 +1,8 @@
+
+         class A{
+            int foo(){
+                for i:= 1 to 1.5 + 10 do a := 0;
+                return 0;
+            }
+        }
+        

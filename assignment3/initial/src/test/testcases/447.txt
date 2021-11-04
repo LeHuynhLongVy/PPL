@@ -1,0 +1,13 @@
+
+        class A{
+        }
+        class B{
+        }
+        class C{
+        int foo(){
+            A a;
+            B b;
+            D c;
+        }
+        }
+        

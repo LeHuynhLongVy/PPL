@@ -1,0 +1,9 @@
+
+        class a{
+        float getb(){
+            final int b = 5;
+            final float b = 5.0;
+            return b;
+        }
+        }
+        

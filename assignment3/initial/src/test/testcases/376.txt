@@ -1,0 +1,8 @@
+
+        class main {
+            int total(int a, b){
+                main a;
+                a.total(4,5);
+            }
+        }
+        

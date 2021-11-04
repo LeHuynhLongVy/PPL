@@ -1,0 +1,1 @@
+Type Mismatch In Statement: For(Id(i),IntLit(1),BinaryOp(&&,BooleanLit(True),BooleanLit(False)),True,AssignStmt(Id(a),IntLit(0))])

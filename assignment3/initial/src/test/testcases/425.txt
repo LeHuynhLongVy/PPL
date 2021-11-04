@@ -1,0 +1,26 @@
+
+        class a{
+            int foo(){
+                int a;
+                a := 10;
+                return a;
+            }
+        }
+        class b{
+            int foo(){
+                int a;
+                a := 10;
+                return a;
+            }
+            int foo1(){
+                int b;
+                b := 1;
+                return b;
+            }
+            int foo1(){
+                int c;
+                c := 34;
+                return c;
+            }
+        }
+        

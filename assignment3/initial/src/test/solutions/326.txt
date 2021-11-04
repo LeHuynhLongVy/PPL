@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(emptymethod1),[MethodDecl(Id(empty3),Static,[],BoolType,Block([VarDecl(Id(abc),BoolType,BooleanLit(True))],[Return(Id(abc))]))])])

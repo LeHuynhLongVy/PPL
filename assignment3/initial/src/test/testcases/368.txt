@@ -1,0 +1,7 @@
+
+                class example{
+                    void main(){
+                        a[b[c[2]]] := 3;
+                    }
+                }
+                

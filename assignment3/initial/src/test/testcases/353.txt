@@ -1,0 +1,7 @@
+
+                class example{
+                void main(){
+                    int a = +3;
+                }
+                }
+                

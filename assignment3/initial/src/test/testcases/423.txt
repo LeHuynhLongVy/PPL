@@ -1,0 +1,14 @@
+
+        class a{
+            int foo(){
+                int a;
+                a := 10 + 10;
+                return a;
+            }
+            int foo(){
+                int b;
+                b := 10 + 10;
+                return b;
+            }
+        }
+        

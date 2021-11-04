@@ -1,0 +1,6 @@
+
+        class A{
+            float b = 1.5;
+            int a = b;
+        }
+        

@@ -1,0 +1,12 @@
+
+         class A{
+         float a;
+            int foo(){
+                for i:= 1 to a do
+                {
+                    int a = 0;
+                    return 0;
+                }
+            }
+        }
+        

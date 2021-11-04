@@ -1,0 +1,8 @@
+
+         class abc{
+             int a;
+             int func(){
+             a := b;
+             }
+         }
+         

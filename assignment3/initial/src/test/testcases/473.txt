@@ -1,0 +1,6 @@
+
+        class A{
+            boolean b = true;
+            float a = b;
+        }
+        

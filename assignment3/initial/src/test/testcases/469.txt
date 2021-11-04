@@ -1,0 +1,6 @@
+
+        class A{
+            boolean b = true;
+            int a = b;
+        }
+        

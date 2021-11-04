@@ -1,0 +1,6 @@
+
+                class example {
+                    int[5] array_type_attribute;
+                    float method(float a,b; int[2] c){}
+                }
+                

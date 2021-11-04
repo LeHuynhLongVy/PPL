@@ -1,0 +1,9 @@
+class attributedecl {
+                    static final int numOfclass = 1;
+                    final static float numOfclass2 = 1.0;
+                    static string text = "abc";
+                    final boolean a = true;
+                    float[2] arr;
+                    int[5] a = {1,2,3,4,5};
+                }
+                

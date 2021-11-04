@@ -1,0 +1,8 @@
+
+                class Example2 {
+                    void returnstmt(){
+                        int a = 5;
+                        if a != 0 then return a; else return 0;
+                    }
+                }
+                

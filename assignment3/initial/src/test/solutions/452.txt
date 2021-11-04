@@ -1,0 +1,1 @@
+Type Mismatch In Statement: If(Id(a),Block([VarDecl(Id(b),IntType,IntLit(10))],[Return(IntLit(0))]))

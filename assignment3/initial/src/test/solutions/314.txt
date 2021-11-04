@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(immutableintatt),[AttributeDecl(Static,ConstDecl(Id(numOfclass),IntType,IntLit(1))),AttributeDecl(Instance,VarDecl(Id(numOfclass2),IntType,IntLit(2))),AttributeDecl(Instance,ConstDecl(Id(numOfclass3),IntType,IntLit(3)))])])

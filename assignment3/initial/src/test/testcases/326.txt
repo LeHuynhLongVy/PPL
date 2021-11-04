@@ -1,0 +1,8 @@
+
+                class emptymethod1 {
+                    static boolean empty3(){
+                        boolean abc = true;
+                        return abc;
+                    }
+                }
+                

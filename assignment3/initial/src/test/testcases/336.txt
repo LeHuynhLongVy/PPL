@@ -1,0 +1,5 @@
+
+                class example {
+                    int[2] array_type_attribute = {1,2};
+                }
+                

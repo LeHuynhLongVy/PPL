@@ -1,0 +1,5 @@
+
+                class example {
+                    boolean[5] array_type_attribute;
+                }
+                

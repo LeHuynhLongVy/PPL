@@ -1,0 +1,6 @@
+
+        class A{
+            float b = 10.5;
+            string a = b;
+        }
+        

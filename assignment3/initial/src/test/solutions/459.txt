@@ -1,0 +1,1 @@
+Type Mismatch In Statement: For(Id(i),BooleanLit(True),IntLit(100),True,Block([VarDecl(Id(a),IntType,IntLit(10))],[Return(Id(a))])])

@@ -1,0 +1,10 @@
+
+         class a{
+             int foo(int a; float b; boolean c){
+                 int d;
+                 float c;
+                 a := 0;
+                 return a;
+             }
+         }
+         

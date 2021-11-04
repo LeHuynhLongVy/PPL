@@ -1,0 +1,9 @@
+
+        class ABC{
+            final int constant = 10;
+            int foo(){
+            constant := 100;
+            return a;
+            }
+        }
+        

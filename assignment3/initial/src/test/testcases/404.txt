@@ -1,0 +1,9 @@
+
+        class a{
+        int foo(){
+        int b;
+        float b;
+        return 0;
+        }
+        }
+        

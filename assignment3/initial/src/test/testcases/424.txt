@@ -1,0 +1,14 @@
+
+        class a{
+            int foo(){
+                int a;
+                a := 10 + 10;
+                return a;
+            }
+            float foo(){
+                float b;
+                b := 10 + 0.5;
+                return b;
+            }
+        }
+        

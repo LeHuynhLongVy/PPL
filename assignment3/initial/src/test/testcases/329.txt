@@ -1,0 +1,8 @@
+
+                class staticmethodhasmanyparameter {
+                    static int para(int parameter, parameter2){
+                        int result =  parameter - parameter2;
+                        return result;
+                    }
+                }
+                

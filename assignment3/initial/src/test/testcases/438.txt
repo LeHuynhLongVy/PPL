@@ -1,0 +1,5 @@
+
+        class SON extends MOM{}
+        class MOM extends SOMEONE{
+        }
+         

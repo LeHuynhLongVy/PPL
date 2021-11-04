@@ -1,0 +1,11 @@
+
+         class A{
+            int foo(){
+                if 10 % 10 then
+                {
+                    int b = 10;
+                    return 0;
+                }
+            }
+        }
+        

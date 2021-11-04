@@ -1,0 +1,8 @@
+
+                class emptymethod1 {
+                    static int empty1(){
+                        int a;
+                        return a;
+                    }
+                }
+                

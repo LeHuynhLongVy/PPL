@@ -1,0 +1,19 @@
+
+                class staticmethodhas1parameter {
+                    static int para(int parameter){
+                        parameter := 5 + 5;
+                        return parameter;
+                    }
+                    static float para1(float parameter1){
+                        return parameter - 1.0;
+                    }
+                    static boolean para2(boolean parameter2){
+                        parameter2 := false;
+                        return parameter || true;
+                    }
+                    static string para3(string parameter3){
+                        parameter3 := "this is a string";
+                        return parameter ^ "ABC";
+                    }
+                }
+                

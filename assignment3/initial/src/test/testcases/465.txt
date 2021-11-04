@@ -1,0 +1,8 @@
+
+         class A{
+            int foo(){
+                for i:= 1 to true && false do a := 0;
+                return 0;
+            }
+        }
+        

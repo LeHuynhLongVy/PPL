@@ -1,0 +1,9 @@
+
+        class ABC{
+            int func(){
+                final int constant = 10;
+                constant := 100;
+                return constant;
+            }
+        }
+        

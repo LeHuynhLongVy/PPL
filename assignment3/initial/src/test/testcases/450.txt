@@ -1,0 +1,11 @@
+
+         class A{
+            int foo(){
+                if 1.5 then
+                {
+                    int a = 10;
+                    return 0;
+                }
+            }
+        }
+        

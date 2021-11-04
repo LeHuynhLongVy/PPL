@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(mutableintatt),[AttributeDecl(Static,VarDecl(Id(numOfclass),IntType,IntLit(1))),AttributeDecl(Instance,VarDecl(Id(numOfclass2),IntType,IntLit(2)))])])

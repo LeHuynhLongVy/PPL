@@ -1,0 +1,9 @@
+
+         class A{
+            int foo(){
+                float b = 1.5;
+                for i:= 1 to b + 1 do a := 0;
+                return 0;
+            }
+        }
+        

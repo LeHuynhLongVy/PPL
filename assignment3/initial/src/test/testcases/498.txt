@@ -1,0 +1,13 @@
+
+                class A{
+                static int i;
+                int foo(){
+                    if true then 
+                    {
+                        i := i + 1;
+                        break;
+                    }
+                    break;
+                }
+                }
+                

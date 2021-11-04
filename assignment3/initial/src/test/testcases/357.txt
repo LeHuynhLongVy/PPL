@@ -1,0 +1,9 @@
+
+                class example{
+                void main(){
+                    int a = true;
+                    int b = !!a;
+                    if b == a then return b;
+                }
+                }
+                

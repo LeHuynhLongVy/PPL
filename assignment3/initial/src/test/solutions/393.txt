@@ -1,0 +1,1 @@
+Program([ClassDecl(Id(Shape),[MethodDecl(Id(getNumOfShape),Static,[],IntType,Block([],[]))]),ClassDecl(Id(Example2),[MethodDecl(Id(getSum),Instance,[],VoidType,Block([VarDecl(Id(s),ClassType(Id(Shape)))],[Call(Id(s),Id(getNumOfShape),[])]))])])
